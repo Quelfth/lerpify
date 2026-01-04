@@ -2,7 +2,7 @@
 name = "lerpify"
 version = "1.0.0"
 edition = "2024"
-licence = "MIT OR Apache-2.0"
+license = "MIT OR Apache-2.0"
 description = "Interpolation traits"
 
 [dependencies]
